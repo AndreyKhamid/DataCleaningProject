@@ -54,7 +54,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+git clone https://github.com/AndreyKhamid/DataCleaningProject.git
 ```
 
 ## Использование
